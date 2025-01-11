@@ -1,0 +1,13 @@
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\bin\Debug\Week_5_2.exe.config
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\bin\Debug\Week_5_2.exe
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\bin\Debug\Week_5_2.pdb
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.Form1.resources
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.Properties.Resources.resources
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.csproj.GenerateResource.cache
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.exe
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.pdb
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.Form2.resources
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.Form3.resources
+C:\Users\omerg\source\repos\Week_5_2\Week_5_2\obj\Debug\Week_5_2.Form4.resources

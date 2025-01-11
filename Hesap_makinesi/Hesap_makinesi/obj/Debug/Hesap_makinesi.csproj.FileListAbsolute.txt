@@ -1,0 +1,10 @@
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.exe.config
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.exe
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\bin\Debug\Hesap_makinesi.pdb
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.Hesap_Makinesi.resources
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.Properties.Resources.resources
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.GenerateResource.cache
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.exe
+C:\Users\omerg\source\repos\Hesap_makinesi\Hesap_makinesi\obj\Debug\Hesap_makinesi.pdb

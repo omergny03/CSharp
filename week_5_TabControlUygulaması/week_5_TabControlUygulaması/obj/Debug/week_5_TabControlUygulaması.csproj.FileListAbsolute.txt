@@ -1,0 +1,10 @@
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\bin\Debug\week_5_TabControlUygulaması.exe.config
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\bin\Debug\week_5_TabControlUygulaması.exe
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\bin\Debug\week_5_TabControlUygulaması.pdb
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.Form1.resources
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.Properties.Resources.resources
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.csproj.GenerateResource.cache
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.exe
+C:\Users\omerg\source\repos\week_5_TabControlUygulaması\week_5_TabControlUygulaması\obj\Debug\week_5_TabControlUygulaması.pdb

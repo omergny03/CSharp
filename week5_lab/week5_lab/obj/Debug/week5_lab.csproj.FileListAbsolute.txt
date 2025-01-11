@@ -1,0 +1,10 @@
+C:\Users\omerg\source\repos\week5_lab\week5_lab\bin\Debug\week5_lab.exe.config
+C:\Users\omerg\source\repos\week5_lab\week5_lab\bin\Debug\week5_lab.exe
+C:\Users\omerg\source\repos\week5_lab\week5_lab\bin\Debug\week5_lab.pdb
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.Form1.resources
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.Properties.Resources.resources
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.csproj.GenerateResource.cache
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.exe
+C:\Users\omerg\source\repos\week5_lab\week5_lab\obj\Debug\week5_lab.pdb

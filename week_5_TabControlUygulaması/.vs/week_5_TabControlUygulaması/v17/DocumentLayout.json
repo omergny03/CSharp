@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|c:\\users\\omerg\\source\\repos\\week_5_tabcontroluygulamas\u0131\\week_5_tabcontroluygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|solutionrelative:week_5_tabcontroluygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_tabcontroluygulamas\u0131\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|solutionrelative:week_5_tabcontroluygulamas\u0131\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_tabcontroluygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|solutionrelative:week_5_tabcontroluygulamas\u0131\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|c:\\users\\omerg\\source\\repos\\week_5_tabcontroluygulamas\u0131\\week_5_tabcontroluygulamas\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|solutionrelative:week_5_tabcontroluygulamas\u0131\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_tabcontroluygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51ABA438-9797-4D51-A080-5A3D9E63DBAE}|week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131.csproj|solutionrelative:week_5_tabcontroluygulamas\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "week_5_TabControlUygulamas\u0131\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.Designer.cs",
+              "RelativeToolTip": "week_5_TabControlUygulamas\u0131\\Form1.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwFUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:44:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Person.cs",
+              "RelativeDocumentMoniker": "week_5_TabControlUygulamas\u0131\\Person.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Person.cs",
+              "RelativeToolTip": "week_5_TabControlUygulamas\u0131\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:47:11.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "RelativeToolTip": "week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:28:28.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "week_5_TabControlUygulamas\u0131\\Program.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Program.cs",
+              "RelativeToolTip": "week_5_TabControlUygulamas\u0131\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:21:44.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "RelativeDocumentMoniker": "week_5_TabControlUygulamas\u0131\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week_5_TabControlUygulamas\u0131\\week_5_TabControlUygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "week_5_TabControlUygulamas\u0131\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:21:37.708Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

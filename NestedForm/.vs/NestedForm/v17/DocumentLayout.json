@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerg\\source\\repos\\NestedForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|c:\\users\\omerg\\source\\repos\\nestedform\\nestedform\\databasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\databasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\formlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\formlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\formlab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\formlab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\formlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\formlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|C:\\Users\\omerg\\source\\repos\\NestedForm\\nestedform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B4B913-EA1D-484C-B47A-1C5511F98603}|NestedForm\\NestedForm.csproj|solutionrelative:nestedform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormLab.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.Designer.cs",
+              "RelativeDocumentMoniker": "NestedForm\\FormLab.Designer.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.Designer.cs",
+              "RelativeToolTip": "NestedForm\\FormLab.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:47:54.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\DatabaseManagement.cs",
+              "RelativeDocumentMoniker": "NestedForm\\DatabaseManagement.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\DatabaseManagement.cs",
+              "RelativeToolTip": "NestedForm\\DatabaseManagement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwDgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:29.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLab.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.cs",
+              "RelativeDocumentMoniker": "NestedForm\\FormLab.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.cs",
+              "RelativeToolTip": "NestedForm\\FormLab.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLab.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.cs",
+              "RelativeDocumentMoniker": "NestedForm\\FormLab.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\FormLab.cs [Tasar\u0131m]",
+              "RelativeToolTip": "NestedForm\\FormLab.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:17:42.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Form2.cs",
+              "RelativeDocumentMoniker": "NestedForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Form2.cs",
+              "RelativeToolTip": "NestedForm\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:51:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Form2.cs",
+              "RelativeDocumentMoniker": "NestedForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "NestedForm\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:50:57.325Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Program.cs",
+              "RelativeDocumentMoniker": "NestedForm\\Program.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\NestedForm\\NestedForm\\Program.cs",
+              "RelativeToolTip": "NestedForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:55:11.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

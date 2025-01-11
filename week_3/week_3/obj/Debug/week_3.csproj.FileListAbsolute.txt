@@ -1,0 +1,7 @@
+C:\Users\omerg\source\repos\week_3\week_3\bin\Debug\week_3.exe.config
+C:\Users\omerg\source\repos\week_3\week_3\bin\Debug\week_3.exe
+C:\Users\omerg\source\repos\week_3\week_3\bin\Debug\week_3.pdb
+C:\Users\omerg\source\repos\week_3\week_3\obj\Debug\week_3.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\week_3\week_3\obj\Debug\week_3.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\week_3\week_3\obj\Debug\week_3.exe
+C:\Users\omerg\source\repos\week_3\week_3\obj\Debug\week_3.pdb

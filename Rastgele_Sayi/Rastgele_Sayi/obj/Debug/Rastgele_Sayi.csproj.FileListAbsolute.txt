@@ -1,0 +1,10 @@
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\bin\Debug\Rastgele_Sayi.exe.config
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\bin\Debug\Rastgele_Sayi.exe
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\bin\Debug\Rastgele_Sayi.pdb
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.csproj.AssemblyReference.cache
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.Form1.resources
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.Properties.Resources.resources
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.csproj.GenerateResource.cache
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.csproj.CoreCompileInputs.cache
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.exe
+C:\Users\omerg\source\repos\Rastgele_Sayi\Rastgele_Sayi\obj\Debug\Rastgele_Sayi.pdb

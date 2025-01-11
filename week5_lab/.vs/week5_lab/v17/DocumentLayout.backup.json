@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omerg\\source\\repos\\week5_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9103A85F-610A-4C49-812F-75DA8F4D61EC}|week5_lab\\week5_lab.csproj|c:\\users\\omerg\\source\\repos\\week5_lab\\week5_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9103A85F-610A-4C49-812F-75DA8F4D61EC}|week5_lab\\week5_lab.csproj|solutionrelative:week5_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9103A85F-610A-4C49-812F-75DA8F4D61EC}|week5_lab\\week5_lab.csproj|c:\\users\\omerg\\source\\repos\\week5_lab\\week5_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9103A85F-610A-4C49-812F-75DA8F4D61EC}|week5_lab\\week5_lab.csproj|solutionrelative:week5_lab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week5_lab\\week5_lab\\Form1.cs",
+              "RelativeDocumentMoniker": "week5_lab\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week5_lab\\week5_lab\\Form1.cs",
+              "RelativeToolTip": "week5_lab\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA3wDgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:21:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\omerg\\source\\repos\\week5_lab\\week5_lab\\Form1.cs",
+              "RelativeDocumentMoniker": "week5_lab\\Form1.cs",
+              "ToolTip": "C:\\Users\\omerg\\source\\repos\\week5_lab\\week5_lab\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "week5_lab\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:19:34.325Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
